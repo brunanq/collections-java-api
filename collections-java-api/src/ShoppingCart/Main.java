@@ -1,4 +1,4 @@
-package list.ShoppingCart;
+package ShoppingCart;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package list.TaskList;
+package TaskList;
 
 public class Task {
     private String description;

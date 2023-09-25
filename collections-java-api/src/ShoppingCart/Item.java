@@ -1,4 +1,4 @@
-package list.ShoppingCart;
+package ShoppingCart;
 
 public class Item {
     private String name;
